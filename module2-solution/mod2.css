@@ -87,39 +87,51 @@ p {
 	}
 	.col-dv-1 {
 		width: 8.33%;
+		position: relative;
 	}
 	.col-dv-2 {
 		width: 16.66%;
+		position: relative;
 	}
 	.col-dv-3 {
 		width: 25%;
+		position: relative;
 	}
 	.col-dv-4 {
 		width: 33.33%;
+		position: relative;
 	}
 	.col-dv-5 {
 		width: 41.66%;
+		position: relative;
 	}
 	.col-dv-6 {
 		width: 50%;
+		position: relative;
 	}
 	.col-dv-7 {
 		width: 58.33%;
+		position: relative;
 	}
 	.col-dv-8 {
 		width: 66.66%;
+		position: relative;
 	}
 	.col-dv-9 {
 		width: 75%;
+		position: relative;
 	}
 	.col-dv-10 {
 		width: 83.33%;
+		position: relative;
 	}
 	.col-dv-11 {
 		width: 91.66%;
+		position: relative;
 	}
 	.col-dv-12 {
 		width: 100%;
+		position: relative;
 	}
 }
 
@@ -133,39 +145,51 @@ p {
 	}
 	.col-tv-1 {
 		width: 8.33%;
+		position: relative;
 	}
 	.col-tv-2 {
 		width: 16.66%;
+		position: relative;
 	}
 	.col-tv-3 {
 		width: 25%;
+		position: relative;
 	}
 	.col-tv-4 {
 		width: 33.33%;
+		position: relative;
 	}
 	.col-tv-5 {
 		width: 41.66%;
+		position: relative;
 	}
 	.col-tv-6 {
 		width: 50%;
+		position: relative;
 	}
 	.col-tv-7 {
 		width: 58.33%;
+		position: relative;
 	}
 	.col-tv-8 {
 		width: 66.66%;
+		position: relative;
 	}
 	.col-tv-9 {
 		width: 75%;
+		position: relative;
 	}
 	.col-tv-10 {
 		width: 83.33%;
+		position: relative;
 	}
 	.col-tv-11 {
 		width: 91.66%;
+		position: relative;
 	}
 	.col-tv-12 {
 		width: 100%;
+		position: relative;
 	}
 }
 
